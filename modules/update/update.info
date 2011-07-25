@@ -1,4 +1,3 @@
-; $Id$
 name = Update manager
 description = Checks for available updates, and can securely install or update modules and themes via a web interface.
 version = VERSION
@@ -6,3 +5,9 @@ package = Core
 core = 7.x
 files[] = update.test
 configure = admin/reports/updates/settings
+
+; Information added by drupal.org packaging script on 2011-06-30
+version = "7.4"
+project = "drupal"
+datestamp = "1309397516"
+

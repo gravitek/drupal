@@ -1,4 +1,3 @@
-; $Id$
 name = Filter
 description = Filters content in preparation for display.
 package = Core
@@ -7,3 +6,9 @@ core = 7.x
 files[] = filter.test
 required = TRUE
 configure = admin/config/content/formats
+
+; Information added by drupal.org packaging script on 2011-06-30
+version = "7.4"
+project = "drupal"
+datestamp = "1309397516"
+

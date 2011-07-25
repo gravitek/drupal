@@ -1,0 +1,5 @@
+name = Monster Styles
+description = Image styles for media fields
+core = 7.x
+
+dependencies[] = media

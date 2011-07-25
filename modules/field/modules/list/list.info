@@ -1,4 +1,3 @@
-; $Id$
 name = List
 description = Defines list field types. Use with Options to create selection lists.
 package = Core
@@ -7,3 +6,9 @@ core = 7.x
 dependencies[] = field
 dependencies[] = options
 files[] = tests/list.test
+
+; Information added by drupal.org packaging script on 2011-06-30
+version = "7.4"
+project = "drupal"
+datestamp = "1309397516"
+

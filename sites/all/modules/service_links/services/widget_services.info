@@ -1,0 +1,15 @@
+name = Widget Services
+description = Provide the Widgets: Digg Smart Button, Facebook Like, Facebook Share, Google Plus One, Twitter
+core = 7.x
+package = Service Links
+dependencies[] = service_links
+
+version = VERSION
+files[] = widget_services.module
+
+; Information added by drupal.org packaging script on 2011-07-20
+version = "7.x-2.x-dev"
+core = "7.x"
+project = "service_links"
+datestamp = "1311122227"
+

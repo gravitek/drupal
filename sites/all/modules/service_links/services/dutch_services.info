@@ -1,0 +1,15 @@
+name = Dutch Services
+description = Provide the Dutch Services: eKudos, Hyves, Nujij
+core = 7.x
+package = Service Links
+dependencies[] = service_links
+
+version = VERSION
+files[] = dutch_services.module
+
+; Information added by drupal.org packaging script on 2011-07-20
+version = "7.x-2.x-dev"
+core = "7.x"
+project = "service_links"
+datestamp = "1311122227"
+

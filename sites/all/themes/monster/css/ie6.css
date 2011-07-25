@@ -1,0 +1,19 @@
+.menu-name-menu-social-links ul li,
+.item-list ul.views-summary li {
+	zoom: 1;
+}
+
+ul.links,
+ul.inline {
+  margin-left: 0;
+}
+
+.feature .info {
+  float: right;
+  margin: 0;
+  width: 247px;
+}
+
+.view-homepage-right .views-row {
+  zoom: 1;
+}

@@ -1,4 +1,3 @@
-; $Id$
 name = Field SQL storage
 description = Stores field data in an SQL database.
 package = Core
@@ -7,3 +6,9 @@ core = 7.x
 dependencies[] = field
 files[] = field_sql_storage.test
 required = TRUE
+
+; Information added by drupal.org packaging script on 2011-06-30
+version = "7.4"
+project = "drupal"
+datestamp = "1309397516"
+
