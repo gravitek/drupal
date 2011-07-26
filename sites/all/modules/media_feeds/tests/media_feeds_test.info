@@ -1,0 +1,6 @@
+name = "Media Feeds test assets"
+description = "Serve static files for Media Feeds testing."
+package = Testing
+version = VERSION
+core = 7.x
+hidden = TRUE

@@ -1,0 +1,6 @@
+; $Id$
+name = Feeds Tamper
+description = Modify feeds data before it gets saved.
+package = Feeds
+dependencies[] = feeds
+core = 7.x

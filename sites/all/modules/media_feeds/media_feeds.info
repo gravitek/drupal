@@ -1,0 +1,9 @@
+name = Media Feeds integration
+description = "Enable mapping imported sources to media fields."
+core = 7.x
+package = Media
+dependencies[] = feeds
+dependencies[] = media_internet
+files[] = includes/MediaFeedsProviderWrapper.inc
+files[] = tests/media_feeds_mapper.test
+files[] = tests/media_feeds_mapper_enclosure.test
